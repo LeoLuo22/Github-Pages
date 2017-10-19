@@ -185,11 +185,7 @@ sns_share:
 sidebar:
     dropdown:
         Email Me:
-<<<<<<< HEAD
             link: "mailto:leoluo22@gmail.com"
-=======
-            link: "mailto: leoluo22@gmail.com"
->>>>>>> 659be3d9a17dfad9e3ea7dcbfc89aadcbe69c91d
             icon: email
     homepage:
         use: true
