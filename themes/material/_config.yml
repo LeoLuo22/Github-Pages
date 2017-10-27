@@ -225,7 +225,6 @@ sidebar:
 # If you want to use gitment,you should get the client_id and client_secret form https://github.com/settings/applications/new
 # If you want to use valine,you should get the app_id and app_key form https://leancloud.cn ,more setting please see https://github.com/xCss/Valine
 comment:
-<<<<<<< HEAD
     use: valine
     #shortname: # duoshuo or disqus shortname
     #changyan_appid:
@@ -238,20 +237,6 @@ comment:
     #gitment_client_secret :  # github app client secret
     valine_leancloud_appId: 8qDKU78IBtlO6QcFsC9uiS1X-gzGzoHsz
     valine_leancloud_appKey: yAEJnO6Vuq7Bel91k2VLvHoL
-=======
-    use:
-    shortname: # duoshuo or disqus shortname
-    changyan_appid:
-    changyan_conf:
-    changyan_thread_key_type: path
-    livere_data_uid:
-    gitment_repo:   # git repo of the hexo
-    gitment_owner:  # git repo's owner
-    gitment_client_id:  # github app client id
-    gitment_client_secret :  # github app client secret
-    valine_leancloud_appId: # leancloud application app id
-    valine_leancloud_appKey: # leancloud application app key
->>>>>>> 659be3d9a17dfad9e3ea7dcbfc89aadcbe69c91d
 
 # Search Systems
 # Available value:
@@ -265,23 +250,14 @@ search:
 #     baidu | google | cnzz
 analytics:
     google_site_id:
-<<<<<<< HEAD
     baidu_site_id: fa7218339ce62cc3d86b2ed7df407e4f
-=======
-    baidu_site_id:
->>>>>>> 659be3d9a17dfad9e3ea7dcbfc89aadcbe69c91d
     cnzz_site_id:
 
 # Leancloud Views
 leancloud:
     enable: false
-<<<<<<< HEAD
     app_id: FkpwiHhxjHetxSbKvIKajFLa-gzGzoHsz
     app_key: D8AW4YtEbGpqPLx5pnUcmDYy
-=======
-    app_id: #你的 app_id
-    app_key: #你的 app_key
->>>>>>> 659be3d9a17dfad9e3ea7dcbfc89aadcbe69c91d
     av_core_mini: "https://cdn1.lncld.net/static/js/av-core-mini-0.6.1.js"
 
 # Busuanzi 不蒜子 Views
